@@ -16,7 +16,7 @@ redirect_from:
 ------
 -->
 <span style="font-family:PT Sans; text-align:justify">
-My new website can be found at <a href="https://geonlee0325.github.io/">here</a>.
+My new website can be found <a href="https://geonlee0325.github.io/">here</a>.
 
 I am a M.S. & Ph.D. student in the <a href="https://gsai.kaist.ac.kr/" style="color:#218bff; text-decoration:none;">Kim Jaechul Graduate School of AI</a> at <a href="https://www.kaist.ac.kr/kr/" style="color:#218bff; text-decoration:none;">KAIST</a>, where I am advised by <a href="https://kijungs.github.io/" style="color:#218bff; text-decoration:none;">Prof. Kijung Shin</a> at <a href="https://sites.google.com/view/kaistdata" style="color:#218bff; text-decoration:none;">Data Mining Lab</a>. I received my B.S. in Computer Science and Engineering from <a href="https://www.skku.edu/skku/index.do" style="color:#218bff; text-decoration:none;">Sungkyunkwan University</a>. I will join <a href="https://www.amazon.com/" style="color:#218bff; text-decoration:none;">Amazon</a> as an applied scientist intern this September. My research interests include data mining, graph mining, social network analysis, and machine learning.
 </span>
